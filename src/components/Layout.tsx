@@ -4,6 +4,7 @@ import { SidebarTrigger } from "@/components/ui/sidebar";
 
 interface LayoutProps {
   children: React.ReactNode;
+  
 }
 
 export function Layout({ children }: LayoutProps) {
